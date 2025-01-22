@@ -64,7 +64,6 @@ public class AnalysisActivity extends AppCompatActivity {
         });
     }
 
-
     private void setImg(String decom, String fpre,String pro){
         if(Objects.equals(decom, "good")){
             ivThumbU2.setImageResource(R.drawable.ic_baseline_thumb_up_filled);
