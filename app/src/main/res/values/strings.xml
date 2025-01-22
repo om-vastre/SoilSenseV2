@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SoilSense</string>
+
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="new_user_create_a_account">New User? Create a account</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification">Notification</string>
+    <string name="sensors">Sensors</string>
+    <string name="npk">NPK</string>
+    <string name="management">Management</string>
+</resources>

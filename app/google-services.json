@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607242072901",
+    "firebase_url": "https://soilsense-e6b17-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "soilsense-e6b17",
+    "storage_bucket": "soilsense-e6b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607242072901:android:7dca6975afc1917b7a442c",
+        "android_client_info": {
+          "package_name": "com.example.soilsense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607242072901-6l3lrodtqvsebrpktr16780ggh5q325s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc_TZoMf6i7qAc0Cnmn_U7oOHQmC1aZWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607242072901-6l3lrodtqvsebrpktr16780ggh5q325s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
